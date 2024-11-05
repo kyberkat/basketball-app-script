@@ -7,7 +7,7 @@ a nodejs script for seeding database via strapi routes with sample data
    
 - Set API_TOKEN and API_URL entrypoint (usually http://localhost:1337/api)
 
-2. Run script
+2. Run script.
 
 ```shell
 node script.js -create -players
